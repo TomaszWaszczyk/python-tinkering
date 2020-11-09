@@ -1,0 +1,22 @@
+;salary;salary;salary;salary
+;count;min;mean;max
+job_title;;;;
+Accountant;5;6900;7920;9000
+Accounting Manager;1;12000;12000;12000
+Administration Assistant;1;4400;4400;4400
+Administration Vice President;2;17000;17000;17000
+Finance Manager;1;12000;12000;12000
+Human Resources Representative;1;6500;6500;6500
+Marketing Manager;1;13000;13000;13000
+Marketing Representative;1;6000;6000;6000
+President;1;24000;24000;24000
+Programmer;5;4200;5760;9000
+Public Accountant;1;8300;8300;8300
+Public Relations Representative;1;10000;10000;10000
+Purchasing Clerk;5;2500;2780;3100
+Purchasing Manager;1;11000;11000;11000
+Sales Manager;5;10500;12200;14000
+Sales Representative;30;6100;8350;11500
+Shipping Clerk;20;2500;3215;4200
+Stock Clerk;20;2100;2785;3600
+Stock Manager;5;5800;7280;8200

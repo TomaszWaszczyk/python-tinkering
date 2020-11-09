@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/moje/
+/p14_pakiety/dist/
+/p14_pakiety/mathematica.egg-info/
+__pycache__/
+*.class
