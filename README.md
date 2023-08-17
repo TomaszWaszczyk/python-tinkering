@@ -41,3 +41,5 @@ https://lnkd.in/gJHjc5X
 5. DataScienceResources
 By: jb
 https://lnkd.in/gfn6GxN
+
+https://github.com/TomaszWaszczyk/teaching
